@@ -1,4 +1,4 @@
-package oopConcepte;
+package OOPConcepte;
 
 public class FabricaMasina {
 

@@ -1,4 +1,4 @@
-package oopConcepte;
+package OOPConcepte;
 
 import org.testng.annotations.Test;
 
